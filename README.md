@@ -1,4 +1,4 @@
-# Dockerized RPC Chatroom (Go)
+# Docker RPC chat (Go)
 
 A lightweight, containerized RPC-based chat system implemented in Go.\
 The server runs inside Docker and exposes a simple RPC interface, while
